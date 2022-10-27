@@ -1,0 +1,14 @@
+.card-octobre {
+	background-image: url("../../images/octobre.jpg");
+	color : white;
+	background-siez: cover;
+	background-position: center;
+	border-width: thick;
+	border: rgb(250, 112, 112);
+	border-radius: 8px ;
+	box-shadow: 10px 20px 30px rgba(30, 30, 30, 0.3);
+	margin: 30px ;
+	padding:30px ;
+	text-align: inherit;
+}
+

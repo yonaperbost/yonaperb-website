@@ -1,0 +1,15 @@
+.btn-savoirplus {
+	background-color: black;
+	color:white ;
+	padding: 12px 24px;
+	border-radius: 8px;
+	margin: 18px;
+}
+
+.btn-savoirplus:hover	{
+	background-color:white ;
+	color: black;
+	font-size: 125%;
+	border: 1px solid floralwhite;
+	transition : 0.5s;
+}
